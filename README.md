@@ -10,4 +10,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&theme=gotham">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lEduFranco&theme=tokyonight&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lEduFranco&theme=gotham&layout=compact">

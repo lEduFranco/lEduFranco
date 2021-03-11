@@ -8,4 +8,4 @@
 - 💬 Ask me about anything;
 - 📫 How to reach me: linkedin;
 
-<img src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&theme=slateorange">
+<img src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&theme=kacho_ga">

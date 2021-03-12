@@ -8,8 +8,20 @@
 - 💬 Ask me about anything;
 - 📫 How to reach me: linkedin;
 
-<img src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014">
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014">
+   </div>
+</div>
 
 ### Com o que trabalho
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lEduFranco&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&layout=compact">
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lEduFranco&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lEduFranco&repo=github-readme-stats">
+   </div>
+</div>
+
+
+

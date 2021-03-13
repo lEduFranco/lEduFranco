@@ -8,7 +8,7 @@
 - 📫 How to reach me: linkedin;
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&cont_private=true&include_all_commits=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&count_private=true&include_all_commits=true">
 </div>
 
 ### Com o que trabalho

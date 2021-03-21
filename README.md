@@ -1,4 +1,4 @@
-### Hii, I'm Luiz Eduardo! 👋
+### Luiz Eduardo
 
 - 🔭 I’m currently working on Tô Mais Vip - Diaristas;
 - 🌱 I’m currently learning NodeJs, ReactJs, ReactNative;

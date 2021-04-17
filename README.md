@@ -13,7 +13,7 @@
 </div> 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lz-Ts"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">

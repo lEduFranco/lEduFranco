@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new opportunities;
 - 🤔 I’m looking for help with my evolution;
 - 💬 Ask me about anything;
-- 📫 How to reach me: https://www.instagram.com/lz.fs/;
+- 📫 How to reach me: +55 (61) 9 9433-0906;
 
 <div>
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lEduFranco&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014">

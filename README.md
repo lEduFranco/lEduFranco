@@ -16,8 +16,8 @@
   <img align="center" alt="Lz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lz-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
-  <img align="center" alt="Lz-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="Lz-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
+  <img align="center" alt="Lz-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 

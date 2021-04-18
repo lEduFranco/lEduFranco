@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new opportunities;
 - 🤔 I’m looking for help with my evolution;
 - 💬 Ask me about anything;
-- 📫 How to reach me: +55 (61) 9 9433-0906;
+- 📱 How to reach me: +55 (61) 9 9433-0906;
 
 <div>
     <a href="https://github.com/lEduFranco">

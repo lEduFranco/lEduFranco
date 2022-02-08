@@ -1,6 +1,6 @@
 ### Luiz Eduardo
 
-- 🔭 I’m currently working on Tô Mais Vip - Diaristas;
+- 🔭 I’m currently working on Omnibess and Tô Mais Vip - Diaristas;
 - 🌱 I’m currently learning NodeJs, ReactJs, ReactNative;
 - 👯 I’m looking to collaborate on new opportunities;
 - 🤔 I’m looking for help with my evolution;

@@ -1,5 +1,7 @@
 ### Luiz Eduardo
 
+<a href="https://app.daily.dev/Luizsa020"><img src="https://api.daily.dev/devcards/4613acba39c24d04b598e3197f4baaf7.png?r=cwh" width="400" alt="LUIZ E F DE SA's Dev Card"/></a>
+
 - 🔭 I’m currently working on Bee2pay and Tô Mais Vip - Diaristas;
 - 🌱 I’m currently learning NodeJs, ReactJs, ReactNative;
 - 👯 I’m looking to collaborate on new opportunities;
@@ -39,7 +41,7 @@
 
 ##
 
-<a href="https://app.daily.dev/Luizsa020"><img src="https://api.daily.dev/devcards/4613acba39c24d04b598e3197f4baaf7.png?r=cwh" width="400" alt="LUIZ E F DE SA's Dev Card"/></a>
+
 
 
 

@@ -10,9 +10,11 @@
         - 📱 How to reach me: +55 (61) 9 9433-0906;
     </div>
     
-    <div>
-        <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lEduFranco/lEduFranco/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-    </div>
+   
+        <a href="https://app.daily.dev/DailyDevTips">
+            <img src="https://github.com/lEduFranco/lEduFranco/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
+        </a>
+    
 
 </div>
 

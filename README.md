@@ -1,6 +1,6 @@
 ### Luiz Eduardo
 
-<div style="display: flex"> 
+<div > 
     <div>
         - 🔭 I’m currently working on Bee2pay and Tô Mais Vip - Diaristas;
         - 🌱 I’m currently learning NodeJs, ReactJs, ReactNative;

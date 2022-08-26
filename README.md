@@ -1,13 +1,24 @@
 ### Luiz Eduardo
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lEduFranco/lEduFranco/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<div style="display: flex"> 
+    <div>
+        - 🔭 I’m currently working on Bee2pay and Tô Mais Vip - Diaristas;
+        - 🌱 I’m currently learning NodeJs, ReactJs, ReactNative;
+        - 👯 I’m looking to collaborate on new opportunities;
+        - 🤔 I’m looking for help with my evolution;
+        - 💬 Ask me about anything;
+        - 📱 How to reach me: +55 (61) 9 9433-0906;
+    </div>
+    
+    <div>
+        <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lEduFranco/lEduFranco/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+    </div>
 
-- 🔭 I’m currently working on Bee2pay and Tô Mais Vip - Diaristas;
-- 🌱 I’m currently learning NodeJs, ReactJs, ReactNative;
-- 👯 I’m looking to collaborate on new opportunities;
-- 🤔 I’m looking for help with my evolution;
-- 💬 Ask me about anything;
-- 📱 How to reach me: +55 (61) 9 9433-0906;
+</div>
+
+
+
+
 
 <div>
     <a href="https://github.com/lEduFranco">

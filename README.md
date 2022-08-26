@@ -9,7 +9,7 @@
         - 📱 How to reach me: +55 (61) 9 9433-0906;
     
  <a href="https://app.daily.dev/Luizsa020" style="height: 100px">
-            <img src="https://github.com/lEduFranco/lEduFranco/main/devcard.svg" width="400" alt="Luiz Sá Dev Card"/>
+            <img src="https://github.com/lEduFranco/lEduFranco/blob/main/devcard.svg" width="400" alt="Luiz Sá Dev Card"/>
         </a>
     
 

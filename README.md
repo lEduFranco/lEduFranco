@@ -109,11 +109,11 @@
   </a> </p>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ledufranco&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact"
     alt="ledufranco" /></p>
 
 <p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=ledufranco&show_icons=true&locale=en&theme=midnight-purple" alt="ledufranco" />
+    src="https://github-readme-stats.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en" alt="ledufranco" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple" alt="ledufranco" /></p>

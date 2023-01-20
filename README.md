@@ -119,6 +119,7 @@
     rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a> </p>
 
+<h3 align="center">Trophies Github:</h3>
 <p align="center"> 
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ledufranco" alt="ledufranco" />
       </a> 

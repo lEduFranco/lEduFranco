@@ -19,6 +19,7 @@
 
 - 📄 Know about my experiences **4 years of programming, in preparation for being a sêniorars**
 
+<div style="from { opacity: 0; transform: translateX(-50px); to {opacity: 1; tranform: translateX(0) 1s; }">
 <p>
       <img align="left"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact"
@@ -33,6 +34,7 @@
 <p>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple" alt="ledufranco" />
 </p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img

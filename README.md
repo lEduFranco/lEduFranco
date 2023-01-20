@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences **4 years of programming, in preparation for being a sêniorars**
 
-<div style="from { opacity: 0; transform: translateX(-50px); to {opacity: 1; tranform: translateX(0) 1s; }">
+<div align="center" style="from { opacity: 0; transform: translateX(-50px); to {opacity: 1; tranform: translateX(0) 1s; }">
 <p>
       <img align="center"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"

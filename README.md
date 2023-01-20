@@ -22,17 +22,17 @@
 <div style="from { opacity: 0; transform: translateX(-50px); to {opacity: 1; tranform: translateX(0) 1s; }">
 <p>
       <img align="left"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"
     alt="ledufranco" />
 </p>
 
 <p>&nbsp;
       <img align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en" alt="ledufranco" />
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" />
 </p>
 
 <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple" alt="ledufranco" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple&count_private=false&include_all_commits=true" alt="ledufranco" />
 </p>
 </div>
 

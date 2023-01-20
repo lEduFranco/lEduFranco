@@ -26,7 +26,7 @@
     alt="ledufranco" />
 </p>
 
-<p>&nbsp;
+<p>
       <img align="center"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" />
 </p>

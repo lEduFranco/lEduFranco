@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Sá</h1>
 <h3 align="center">Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ledufranco&label=Profile%20views&color=0e75b6&style=flat" alt="ledufranco" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ledufranco&label=Profile%20views&color=0e75b6&style=flat" alt="ledufranco" /> </p>
 
 
 
@@ -21,7 +21,7 @@
 
 <div style="from { opacity: 0; transform: translateX(-50px); to {opacity: 1; tranform: translateX(0) 1s; }">
 <p>
-      <img align="left"
+      <img align="center"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"
     alt="ledufranco" />
 </p>
@@ -36,7 +36,7 @@
 </p>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
       src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a> <a
     href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
@@ -119,14 +119,14 @@
     rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
       <a href="https://instagram.com/lz.fs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto: luizinho.eduardo33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/luiz-eduardo-franco-de-sá-094a07205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-<p align="left"> 
+<p align="center"> 
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ledufranco" alt="ledufranco" />
       </a> 
 </p>

@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ledufranco&label=Profile%20views&color=0e75b6&style=flat" alt="ledufranco" /> </p>
 
-
-
 - 🔭 I’m currently working on [Bee2pay and Tô Mais Vip](https://bee2pay.com/)
 
 - 🌱 I’m currently learning **NodeJs, ReactJs, ReactNative**
@@ -19,21 +17,26 @@
 
 - 📄 Know about my experiences **4 years of programming, in preparation for being a sêniorars**
 
-<div align="center" style="from { opacity: 0; transform: translateX(-50px); to {opacity: 1; tranform: translateX(0) 1s; }">
-<p>
-      <img align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"
-    alt="ledufranco" />
-</p>
+<div 
+  align="center" 
+  style="
+    from { opacity: 0; transform: translateX(-50px); to {opacity: 1; tranform: translateX(0) 1s; }
+  "
+>
+  <div style="display: flex; gap: 10px; aling-items: center; justify-content: center;">
+    <img align="center"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"
+      alt="ledufranco" 
+    />
+  
+    <img align="center"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" 
+    />
+  </div>
 
-<p>
-      <img align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" />
-</p>
-
-<p>
+  <div style="width: 100%">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple&count_private=false&include_all_commits=true" alt="ledufranco" />
-</p>
+  </div>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -120,9 +123,9 @@
   </a> </p>
 
 <!-- <h3 align="center">Trophies Github:</h3>
-<p align="center"> 
+<p align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ledufranco" alt="ledufranco" />
-      </a> 
+      </a>
 </p> -->
 
 <h3 align="center">Connect with me:</h3>

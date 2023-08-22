@@ -24,14 +24,17 @@
   "
 >
   <div style="display: flex; gap: 10px; aling-items: center; justify-content: center;">
-    <img align="center"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"
-      alt="ledufranco" 
-    />
-  
-    <img align="center"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" 
-    />
+    <div> 
+      <img align="center"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"
+        alt="ledufranco" 
+      />
+    </div>
+    <div> 
+      <img align="center"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" 
+      />
+    </div>
   </div>
 
   <div style="width: 100%">

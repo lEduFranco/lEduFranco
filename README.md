@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Luiz Sá
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&theme=github_dark&locale=en&count_private=false&include_all_commits=true&orgs=ToMaisVip,EuEncontro&card_width=450px" alt="ledufranco" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lEduFranco&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=false&include_all_commits=true&hide=php&orgs=ToMaisVip,EuEncontro&card_width=378px" alt="ledufranco" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=github-dark-blue&count_private=false&include_all_commits=true&card_width=903px" alt="ledufranco" />
-</div> 
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lEduFranco&show_icons=true&theme=github_dark&locale=en&count_private=true&include_all_commits=true&card_width=450px&include_orgs=true" alt="ledufranco" />
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=lEduFranco&show_icons=true&theme=github_dark&locale=en&layout=compact&include_all_commits=true&hide=php&card_width=378px&include_orgs=true" alt="ledufranco" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=github-dark-blue&include_all_commits=true&card_width=903px" alt="ledufranco" />
+</div>
 
 <div style="display: inline_block"><br>
    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,styledcomponents,tailwind,vite,nodejs,express,prisma,jest,docker,aws,postgres,mongodb,redis" alt="icons" />

@@ -17,33 +17,25 @@
 
 - 📄 Know about my experiences **4 years of programming, in preparation for being a sêniorars**
 
-<div align="center" style="opacity: 0; transform: translateX(-50px); animation: fadeInTranslate 1s forwards;">
-  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-    <div> 
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true" alt="ledufranco" />
-    </div>
-    <div> 
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" />
-    </div>
-  </div>
-
-  <div style="width: 100%">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple&count_private=false&include_all_commits=true" alt="ledufranco" />
-  </div>
+<div>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true"
+        alt="ledufranco" 
+  >
+  <img align="center"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" 
+  />
+</div>  
+</div>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple&count_private=false&include_all_commits=true" alt="ledufranco" />
 </div>
 
-<style>
-  @keyframes fadeInTranslate {
-    from {
-      opacity: 0;
-      transform: translateX(-50px);
-    }
-    to {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
-</style>
+<div style="display: inline_block"><br>
+   <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

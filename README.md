@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Luiz Sá
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ledufranco&show_icons=true&theme=github_dark&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=false&include_all_commits=true&hide=php" alt="ledufranco" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=github-dark-blue&count_private=false&include_all_commits=true" alt="ledufranco" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lEduFranco&show_icons=true&theme=github_dark&locale=en&count_private=false&include_all_commits=true&orgs=ToMaisVip,EuEncontro&card_width=450px" alt="ledufranco" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lEduFranco&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=false&include_all_commits=true&hide=php&orgs=ToMaisVip,EuEncontro&card_width=378px" alt="ledufranco" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lEduFranco&theme=github-dark-blue&count_private=false&include_all_commits=true&orgs=ToMaisVip,EuEncontro&card_width=903px" alt="ledufranco" />
 </div> 
 
 <div style="display: inline_block"><br>

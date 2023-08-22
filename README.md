@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&vCenter=true&width=1000&lines=Hi+👋,+My+Name+is+Luiz+Sá;I'm+21+years+old;I'm+a+developer+for+4+years;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -22,4 +22,4 @@
   <a href="https://instagram.com/lz.fs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>

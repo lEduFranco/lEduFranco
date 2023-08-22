@@ -9,7 +9,7 @@
 
 
 <div style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,prisma,tailwind,docker,aws,postgres" alt="react" />
+   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,docker,aws,postgres" alt="react" />
 </div>
 
 ##

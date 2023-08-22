@@ -2,14 +2,12 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&count_private=false&include_all_commits=true" alt="ledufranco" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true" alt="ledufranco" >
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ledufranco&show_icons=true&theme=midnight-purple&locale=en&layout=compact&count_private=false&include_all_commits=true" alt="ledufranco" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ledufranco&theme=midnight-purple&count_private=false&include_all_commits=true" alt="ledufranco" />
 </div>  
 
-
-
 <div style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,styledcomponents,tailwind,vite,nodejs,express,prisma,jest,docker,aws,postgres,mongodb,redis" alt="react" />
+   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,styledcomponents,tailwind,vite,nodejs,express,prisma,jest,docker,aws,postgres,mongodb,redis" alt="icons" />
 </div>
 
 ##

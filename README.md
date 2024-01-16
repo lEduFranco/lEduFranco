@@ -58,9 +58,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
 -->
-
-<div align="center" style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,styledcomponents,tailwind,vite,nodejs,express,prisma,jest,docker,aws,postgres,mongodb,redis" alt="icons" />
-</div>
-
-

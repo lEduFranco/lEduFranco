@@ -1,7 +1,7 @@
 # Luiz Sá
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Sá-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-franco-de-s%C3%A1-094a07205/)](https://www.linkedin.com/in/luiz-eduardo-franco-de-s%C3%A1-094a07205/)
-[![WhatsApp Badge](https://img.shields.io/badge/-(61)994330906-00875f?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5561994330906)](https://wa.me/5561994330906)
+[![WhatsApp Badge](https://img.shields.io/badge/-(61)%20994330906-00875f?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5561994330906)](https://wa.me/5561994330906)
 [![Instagram Badge](https://img.shields.io/badge/-@lz.fs-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/lz.fs)](https://instagram.com/lz.fs) 
 [![Gmail Badge](https://img.shields.io/badge/-eduardo33.luiz@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo33.luiz@gmail.com)](mailto:eduardo33.luiz@gmail.com)
 

@@ -14,8 +14,7 @@
   </p>
   
   <p>
-  🔧 Em experiências anteriores, fui responsável por desenvolver integralmente sistemas internos e externos, utilizando tecnologias de ponta como Node.js, ReactJS e React Native. Meu GitHub github.com/lEduFranco reflete meu entusiasmo contínuo em explorar e aprimorar meu conhecimento no vasto universo do Javascript.
-  
+  🔧 Em experiências anteriores, fui responsável por desenvolver integralmente sistemas internos e externos, utilizando tecnologias de ponta como Node.js, ReactJS e React Native.
   </p>
   
   <p>

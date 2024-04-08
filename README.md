@@ -25,5 +25,5 @@
 ## 
 
 <div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,styledcomponents,tailwind,vite,nodejs,express,prisma,jest,docker,aws,postgres,mongodb,redis" alt="icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,nestjs,express,prisma,jest,docker,aws,postgres,mongodb,redis" alt="icons" />
 </div>

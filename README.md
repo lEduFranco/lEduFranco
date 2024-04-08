@@ -20,10 +20,6 @@
   <p>
   📚 Sempre em busca de novos horizontes, encaro o aprendizado como um hobby constante. "Stay Hungry, Stay Foolish" é mais do que uma filosofia para mim; é a motivação por trás do meu desejo de explorar novas fronteiras e inovar.
   </p>
-  
-  <p>
-  Vamos conectar e compartilhar ideias sobre desenvolvimento, inovação e aprendizado contínuo!
-  </p>
 </div>
 
 ## 

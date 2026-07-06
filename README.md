@@ -6,19 +6,27 @@
 
 <div>
   <p>
-     🚀 Desenvolvedor Full Stack apaixonado por desafios e inovação! Ao longo da minha jornada, liderei iniciativas de destaque, desde a criação completa de bibliotecas de componentes até a arquitetura frontend, sempre impulsionando eficiência e qualidade. 
+    🚀 Desenvolvedor Full Stack apaixonado por arquitetura, liderança técnica e inovação. Minha trajetória é marcada pela construção de soluções robustas, pelo impulso à eficiência técnica e pela capacidade de transitar entre diferentes frentes de desenvolvimento, do back-end à modernização de sistemas legados.
   </p>
- 
+
   <p>
-  🌐 Na equipe da Raia/DrogaSil, destaquei-me como peça chave na squad principal de arquitetura, além de contribuir ativamente em squads complementares como desenvolvedor sênior. Meu compromisso com a excelência técnica e a entrega eficaz foi evidente na criação do fluxo de geração de cartões de créditos virtuais.
+    🌐 Atuo em múltiplos contextos e stacks: back-end escalável em Node.js, NestJS e CQRS, e front-end transitando entre sistemas legados (AngularJS, jQuery) e soluções modernas (Next.js, Vite, React Native). Lidero iniciativas de evolução técnica que impactam múltiplos squads, propondo e implementando arquiteturas, conduzindo refatorações estruturais de sistemas legados e apoiando times em decisões técnicas e code reviews estratégicos.
   </p>
-  
+
   <p>
-  🔧 Em experiências anteriores, fui responsável por desenvolver integralmente sistemas internos e externos, utilizando tecnologias de ponta como Node.js, ReactJS e React Native.
+    🤖 Um dos pilares da minha atuação hoje é a criação de agentes de Inteligência Artificial voltados a melhorar o dia a dia de engenharia, incluindo automação de tarefas repetitivas e agentes que aceleram code review, documentação e onboarding técnico. Essas iniciativas fazem sentido no contexto da empresa onde atuo: uma empresa AI Native, que coloca inteligência artificial no centro da sua estratégia de negócio e da inovação que leva ao mercado.
   </p>
-  
+
   <p>
-  📚 Sempre em busca de novos horizontes, encaro o aprendizado como um hobby constante. "Stay Hungry, Stay Foolish" é mais do que uma filosofia para mim; é a motivação por trás do meu desejo de explorar novas fronteiras e inovar.
+    🔧 Ao longo da minha carreira, já liderei projetos que vão desde a criação completa de bibliotecas de componentes até o desenho de arquiteturas front-end, sempre com foco em qualidade, boas práticas e impacto real para o negócio. Também já formei outros engenheiros através de mentorias individuais, além de conduzir code reviews criteriosos e discussões de arquitetura que elevam o padrão técnico dos times. Minha forma de liderar é técnica: influencio decisões pelo critério e pela credibilidade que construo entre as squads, não pela posição hierárquica.
+  </p>
+
+  <p>
+    📚 Movido pelo aprendizado contínuo, encaro a evolução técnica como um estilo de vida. "Stay Hungry, Stay Foolish" não é apenas uma filosofia para mim, mas o combustível para continuar explorando novas tecnologias, novas formas de aplicar inteligência artificial ao desenvolvimento de software e expandir minhas próprias fronteiras técnicas.
+  </p>
+
+  <p>
+    💬 Vamos conectar e compartilhar ideias sobre desenvolvimento, arquitetura, inovação e aprendizado constante!
   </p>
 </div>
 
